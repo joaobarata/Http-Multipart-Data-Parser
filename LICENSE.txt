@@ -1,4 +1,6 @@
-Copyright (c) 2013 Jake Woods
+Copyright (c) for portions of project Http-Multipart-Data-Parser are held by Jake Woods, 2013 as part of project Http-Multipart-Data-Parser. https://github.com/Vodurden/Http-Multipart-Data-Parser
+Copyright (c) for portions of project Http-Multipart-Data-Parser are held by Anton Makarevich, 2018 as part of pull request to Http-Multipart-Data-Parser. https://github.com/Vodurden/Http-Multipart-Data-Parser/pull/61
+All other copyright for project Http-Multipart-Data-Parser are held by João Barata, 2019.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software 
 and associated documentation files (the "Software"), to deal in the Software without restriction, 
